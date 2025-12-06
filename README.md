@@ -29,7 +29,7 @@ The Customer Loyalty and Reward Tracker is a PL/SQL-based system designed to hel
 ---
 
 ## 📑 Documentation Links
-- [Phase II – Business Process Modeling (Word Doc)](database/documentation/Phase_II_Business_Process_Modeling_Documentation.docx)  
+- [Phase II – Business Process Modeling (Word Doc)](database/documentation/Phase_II_Business_Process_Modeling_Documentation_Generated(1).docx)  
 - [Phase III – Logical Database Design (Word Doc)](database/documentation/Phase_III_Logical_Database_Design.docx)  
 - [BPMN Diagram (PlantUML)](database/documentation/bpmn_diagram.puml)  
 - [ER Diagram (PlantUML)](database/documentation/er_diagram.puml)  
