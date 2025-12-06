@@ -22,6 +22,23 @@ The Customer Loyalty and Reward Tracker is a PL/SQL-based system designed to hel
 ---
 
 ## 📂 Repository Structure
-```
-your-project-repo/ ├── README.md ├── database/ │ ├── scripts/ # SQL scripts (CREATE, INSERT, procedures, triggers) │ └── documentation/ # Word/PDF docs, ER diagrams, BPMN explanations ├── queries/ │ ├── data_retrieval.sql # SELECT queries, joins, aggregations │ ├── analytics_queries.sql # BI queries (window functions, KPIs) │ └── audit_queries.sql # Queries for triggers/audit logs ├── business_intelligence/ │ ├── bi_requirements.md # KPIs, stakeholders, reporting frequency │ ├── dashboards.md # Mockups or descriptions of dashboards │ └── kpi_definitions.md # KPI formulas and definitions ├── screenshots/ │ ├── oem_monitoring/ # Screenshots of Oracle OEM monitoring │ ├── database_objects/ # ER diagram, SQL Developer structure │ └── business_process/ # BPMN diagram screenshots └── documentation/ ├── data_dictionary.md ├── architecture.md └── design_decisions.md
-```
+
+
+
+
+---
+
+## 📑 Documentation Links
+- [Phase II – Business Process Modeling (Word Doc)](database/documentation/Phase_II_Business_Process_Modeling_Documentation.docx)  
+- [Phase III – Logical Database Design (Word Doc)](database/documentation/Phase_III_Logical_Database_Design.docx)  
+- [BPMN Diagram (PlantUML)](database/documentation/bpmn_diagram.puml)  
+- [ER Diagram (PlantUML)](database/documentation/er_diagram.puml)  
+
+---
+
+## 🚀 Quick Start Instructions
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/mon_27810_muhanguzi_loyaltyDB.git
+
+
