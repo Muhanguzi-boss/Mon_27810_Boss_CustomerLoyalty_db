@@ -22,4 +22,6 @@ The Customer Loyalty and Reward Tracker is a PL/SQL-based system designed to hel
 ---
 
 ## 📂 Repository Structure
-
+```
+your-project-repo/ ├── README.md ├── database/ │ ├── scripts/ # SQL scripts (CREATE, INSERT, procedures, triggers) │ └── documentation/ # Word/PDF docs, ER diagrams, BPMN explanations ├── queries/ │ ├── data_retrieval.sql # SELECT queries, joins, aggregations │ ├── analytics_queries.sql # BI queries (window functions, KPIs) │ └── audit_queries.sql # Queries for triggers/audit logs ├── business_intelligence/ │ ├── bi_requirements.md # KPIs, stakeholders, reporting frequency │ ├── dashboards.md # Mockups or descriptions of dashboards │ └── kpi_definitions.md # KPI formulas and definitions ├── screenshots/ │ ├── oem_monitoring/ # Screenshots of Oracle OEM monitoring │ ├── database_objects/ # ER diagram, SQL Developer structure │ └── business_process/ # BPMN diagram screenshots └── documentation/ ├── data_dictionary.md ├── architecture.md └── design_decisions.md
+```
