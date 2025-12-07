@@ -22,7 +22,7 @@ The Customer Loyalty and Reward Tracker is a PL/SQL-based system designed to hel
 ---
 
 ## 📂 Repository Structure
-
+```
 ├── scripts/                # SQL scripts for schema, procedures, triggers
 │   ├── schema_tables.sql
 │   ├── phase_v_tables_data.sql
@@ -58,7 +58,7 @@ The Customer Loyalty and Reward Tracker is a PL/SQL-based system designed to hel
 │   └── bi/
 │
 └── README.md               # Project overview
-
+```
 ---
 
 ## 📑 Documentation Links
